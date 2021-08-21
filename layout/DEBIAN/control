@@ -1,0 +1,9 @@
+Package: com.tweakios.easycommand
+Name: EasyCommand
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: TweakiOS
+Author: TweakiOS
+Section: Control Center (Modules)
